@@ -3,7 +3,7 @@
 Solutions of tasks of [imedhub](https://imedhub.org/) internship 2019.
 
 ## Task1
-[Github Link](task1/imedhub-task1.ipynb)
+[Github Link](task1/imedhub-task1.ipynb)  
 [Kaggle Kernel](https://www.kaggle.com/yelmurat/imedhub-task1)
 
 ### Note:
